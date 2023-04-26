@@ -26,7 +26,9 @@
 
 Пусть, например, заданы следующие правила:
 
-@Рисунок@
+<p align="center">
+    <img width="549" height="190" src="https://github.com/dedmouze/Yandex-Algorithm-Trainings/blob/main/%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%203.0/28A.%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D1%89%D0%B8%D0%BA/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D1%89%D0%B8%D0%BA%D0%B0.png" alt="Пример правил передвижения космического мусорщика">
+</p>
 
 Тогда при выполнении команды *S(3)* мусорщик выполнит следующие действия:
 
