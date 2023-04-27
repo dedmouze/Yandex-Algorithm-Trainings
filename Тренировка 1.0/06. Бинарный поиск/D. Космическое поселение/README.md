@@ -47,4 +47,6 @@
 
 Для входных данных 11 3 2 21 25 можно установить дополнительную защиту толщиной 2 метра и разместить модули на поле, как показано на рисунке:
 
-@Рисунок@
+<p align="center">
+    <img width="589" height="284" src="https://github.com/dedmouze/Yandex-Algorithm-Trainings/blob/main/%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%201.0/06.%20%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/D.%20%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80.png" alt="Пример">
+</p>
